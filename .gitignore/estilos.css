@@ -1,0 +1,81 @@
+@charset "utf-8";
+*{
+	padding:0;
+	margin:0;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Anton');
+
+body{
+	font-family: 'Anton';
+	background:#FFFFFF;
+	color:#000000;
+	font-size: 2em;
+}
+header{
+	 background: #FFFFFF;
+		border-radius:0.5em;
+		margin:0.2em auto;
+		max-width:1600px;
+		min-height:50px;
+		width:100%;	
+}
+h1{
+	color:#000000;
+	margin:0.25em auto;
+	text-align:left;
+	text-shadow:5px 5px 10px rgba (255,255,255,0.5);
+	}
+	section#fondo{
+		margin:0.5em auto;
+		max-width:1600px;
+		padding:0px;
+		background:#FFFFFF;
+		text-align:center;
+	}
+    nav{
+        background: #1E6381;
+		border-radius:10em;
+		display:inline-block;
+		margin:0.2em auto;
+		max-width:1600px;
+		min-height:50px;
+		width:30%;
+	}
+	footer{
+	background:#005883;
+	border-radius:10em;
+	margin:0.5em auto;
+	max-width:1600px;
+	padding:0.25em;
+	text-align:center;
+    }
+	section#contenedor{
+		margin:0.5em auto;
+		max-width:1600px;
+		padding:0px;
+		background:#FFFFFF;
+		text-align:center;
+	}
+	section#principal,aside{
+		background: #B3B3B3;
+		border-radius:0.5em;
+		display:inline-block;
+		margin:0.2em auto;
+		max-width:960px;
+		min-height:200px;
+		vertical-align:top;
+		width:60%;
+	}
+article{
+	background:#B3B3B3;
+	border-radius:0.5em;
+	min-height:140px;
+	padding:0.25em;
+}
+aside{
+	width:30%;
+}
+/* Scss Document */
+
+
