@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta description="estructura HTML5 visual">
+  <link rel="stylesheet"type="text/css"href="css/normalize">
+  <link rel="stylesheet"type="text/css"href="css/estilos.css">
+  <title>portada</title>
+</head>
+<body>
+  <header>
+    <div>
+      <img src="imagenes/logounad.jpg"alt="logounad" width="400" height="80">
+    </div> 
+  </header>
+  <section id="fondo">
+     <section id="cuadro2">
+       <nav> 
+        <ul> 
+        <li><a href="inicio.html">Inicio</a></li> 
+        </ul>
+     </nav>
+     <nav>
+       <ul>  
+        <li><a href="articulo.html">Articulo</a></li> 
+        </ul>
+     </nav>
+     <nav>
+       <ul> 
+        <li><a href="informacion.html">Información</a></li>
+        </ul> 
+     </nav>
+  </section>
+  <section id="contenedor">
+    <section id="principal">
+     <h1>*INFORMACION GENERAL SOBRE EL OVI</h1> 
+        <article>
+        <p>Introducción a HTML5, Estructura básica de HTML5, Aplicación de elementos de HTML5 a un proyecto de diseño Web, Introducción a CSS3, Estructura básica de CSS3, Aplicación de elementos de CSS3 a un proyecto de diseño Web. </p>
+      </article>
+      <article>
+      <h1>*OBJETIVOS DEL OVI</h1>
+      <article>
+        <p>El grupo creará un repositorio colaborativo en GITHUB. Donde todos los estudiantes del grupo apoyaran la construcción del sitio web del OVI a través de Commits y Pull Request. Para luego publicar este repositorio como un sitio web de Github Pages. </p>
+      </article>
+      <article>
+      <h1>*OBJETIVOS DEL CURSO</h1>
+      <article>
+        <p>Que el estudiante se fundamente teóricamente sobre las generalidades básicas del Diseño  Web.
+
+        Que el estudiante pueda utilizar de forma correcta los lenguajes HTML5 y CSS3 para aplicarlos en la solución de problemas de construcción de Sitios Web. 
+
+        Que el estudiante implemente servicios y sitios web a través de sistemas de control de versiones.</p>
+      </article>
+    </section>
+    <aside>
+      <header>
+        <div>
+         <img src="imagenes/banner2.jpg"alt="banner2" width="400" height="180">
+        </div> 
+      </header>
+    </aside>
+  </section>
+  <footer>
+    Aprendiendo HTML5 con josue ochoa
+  </footer>
+
+  <head>
+  <meta charset="UTF-8">
+  <meta description="estructura HTML5 visual">
+  <link rel="stylesheet"type="text/css"href="css/normalize">
+  <link rel="stylesheet"type="text/css"href="css/estilos.css">
+  <title>inicio</title>
+</head>
+
+<body>
+  <header>
+    <div>
+      <img src="imagenes/logounad.jpg"alt="logounad" width="400" height="80">
+    </div> 
+  </header>
+  <section id="fondo">
+     <section id="cuadro2">
+     <nav> 
+        <ul> 
+        <li><a href="inicio.html">Inicio</a></li> 
+        </ul>
+     </nav>
+     <nav>
+       <ul>  
+        <li><a href="articulo.html">Articulo</a></li> 
+        </ul>
+     </nav>
+     <nav>
+       <ul> 
+        <li><a href="información.html">Información</a></li>
+        </ul> 
+     </nav>
+  </section>
+  <section id="contenedor">
+    <section id="principal">
+      <article>
+      <h1>*INFORMACION GENERAL SOBRE EL OVI</h1>
+      <article>
+        <p>Introducción a HTML5, Estructura básica de HTML5, Aplicación de elementos de HTML5 a un proyecto de diseño Web, Introducción a CSS3, Estructura básica de CSS3, Aplicación de elementos de CSS3 a un proyecto de diseño Web. </p>
+      </article>
+      <article>
+      <h1>*OBJETIVOS DEL OVI</h1>
+      <article>
+        <p>El grupo creará un repositorio colaborativo en GITHUB. Donde todos los estudiantes del grupo apoyaran la construcción del sitio web del OVI a través de Commits y Pull Request. Para luego publicar este repositorio como un sitio web de Github Pages. </p>
+      </article>
+      <article>
+      <h1>*OBJETIVOS DEL CURSO</h1>
+      <article>
+        <p>Que el estudiante se fundamente teóricamente sobre las generalidades básicas del Diseño  Web.
+
+        Que el estudiante pueda utilizar de forma correcta los lenguajes HTML5 y CSS3 para aplicarlos en la solución de problemas de construcción de Sitios Web. 
+
+        Que el estudiante implemente servicios y sitios web a través de sistemas de control de versiones.</p>
+      </article>
+    </section>
+    <aside>
+       <header>
+    <div>
+      <img src="imagenes/banner1.jpg"alt="banner1" width="400" height="180">
+    </div> 
+  </header>
+    </aside>
+  </section>
+
+  <footer> 
+     Aprendiendo HTML5 con josue ochoa
+
+  </footer>
+
+   <script src="js/jquery.3.3.1"></script>
+   <script src="js/prefixfee"></script>
+   <script src="js/modernizr-custom"></script>
+   <head>
+  <meta charset="UTF-8">
+  <meta description="estructura HTML5 visual">
+  <link rel="stylesheet"type="text/css"href="css/normalize">
+  <link rel="stylesheet"type="text/css"href="css/estilos.css">
+  <title>articulo</title>
+</head>
+
+<body>
+  <header>
+    <div>
+      <img src="imagenes/logounad.jpg"alt="logounad" width="400" height="80">
+    </div> 
+  </header>
+  <section id="fondo">
+     <section id="cuadro2">
+     <nav> 
+        <ul> 
+        <li><a href="inicio.html">Inicio</a></li> 
+        </ul>
+     </nav>
+     <nav>
+       <ul>  
+        <li><a href="articulo.html">Articulo</a></li> 
+        </ul>
+     </nav>
+     <nav>
+       <ul> 
+        <li><a href="información.html">Información</a></li>
+        </ul> 
+     </nav>
+  </section>
+  <section id="contenedor">
+    <section id="principal">
+       <h1>Conceptos básicos sobre seguridad informática, ventajas y desventajas</h1>
+      <article>
+        <P>Sin importar el medio de trasmisión cable o inalámbrico las redes informáticas se han convertido en herramientas esenciales para la vida humana. Tanto las personas como las empresas usan computadores y redes para sus tareas diarias, por ejemplo el correo electrónico, los programas contables, impresoras en red, documentos en línea o administración de archivos.
+        El acceso de personas no autorizadas puede causar interrupciones que conllevan a gastos de dinero o perdida de trabajo, los ataques a esta también afectan de manera económica o hasta con el cierre de las compañías.
+        La mayoría de estas intrusiones se dan debido a fallas de seguridad en las redes o programas de seguridad deficientes o mal configurados.
+        Una vez que un pirata tiene el acceso a una red pueden surgir 4 tipos de amenazas:
+        Robo de información
+        Robo de identidad
+        Perdida y manipulación de datos
+        Interrupción del servicio.
+        Las amenazas de seguridad originadas por los piratas pueden ser 
+        internas o externas</p>
+        <article>
+          <h1>-Amenazas externas:</h1> <p>Provienen de personas que no tienen utorización para acceder al sistema o a la red de computadoras. Logran introducirse principalmente desde Internet, enlaces inalámbricos o servidores de acceso por marcación o dial</p>
+        </article>
+        <article>
+          <h1>-Amenazas internas:</h1> <p>Por lo general, conocen información valiosa y vulnerable o saben cómo acceder a esta. Sin embargo, no todos los ataques internos son intencionados.
+          Estos son los delitos informáticos más frecuentes en la red:</p>
+          <p>      *Abuso del acceso a la red por parte de personas que pertenecen a la organización.</p>
+          <p>      *Virus.</p>
+          <p>      *Suplantación de identidad.</p>
+          <p>      *Uso indebido de la mensajería instantánea.</p>
+          <p>      *Denegación de servicio, caída de servidores.</p>
+          <p>      *Acceso no autorizado a la información.</p>
+          <p>      *Robo de información de los clientes o de los empleados.</p>
+          <p>      *Abuso de la red inalámbrica.</p>
+          <p>      *Penetración en el sistema.</p>
+          <p>      *Fraude financiero.</p>
+          <p>      *Detección de contraseñas.</p>
+          <p>      *Registro de claves.</p>
+        </article>
+      </article>
+    </section>
+    <aside>
+        <header>
+          <div>
+          <img src="imagenes/banner3.jpg"alt="banner3" width="400" height="180">
+          </div> 
+        </header> 
+    </aside>
+  </section>
+
+  <footer> 
+      Aprendiendo HTML5 con josue ochoa
+
+  </footer>
+
+   <script src="js/jquery.3.3.1"></script>
+   <script src="js/prefixfee"></script>
+   <script src="js/modernizr-custom"></script>
+   <head>
+  <meta charset="UTF-8">
+  <meta description="estructura HTML5 visual">
+  <link rel="stylesheet"type="text/css"href="css/normalize">
+  <link rel="stylesheet"type="text/css"href="css/estilos.css">
+  <title>información</title>
+</head>
+
+<body>
+  <header>
+    <div>
+      <img src="imagenes/logounad.jpg"alt="logounad" width="400" height="80">
+    </div> 
+  </header>
+  <section id="fondo">
+     <section id="cuadro2">
+     <nav> 
+        <ul> 
+        <li><a href="inicio.html">Inicio</a></li> 
+        </ul>
+     </nav>
+     <nav>
+       <ul>  
+        <li><a href="articulo.html">Articulo</a></li> 
+        </ul>
+     </nav>
+     <nav>
+       <ul> 
+        <li><a href="información.html">Información</a></li>
+        </ul> 
+     </nav>
+  </section>
+  <section id="contenedor">
+    <section id="principal">
+      <article>
+      <p>DISEÑO DE SITIOS WEB </p>
+      <p> Grupo:301122_54 </p>
+      <article>
+         <p> Presentado </p>
+         <p> Jessica Paola Fernandez </p>
+         <p> cc. 1032458644 </p>
+         <p> estudiante de Ingenieria De Sistemas </p>
+
+          
+      </article>
+    </section>
+    <aside>
+       <header>
+    <div>
+      <img src="imagenes/banner4.jpg"alt="banner4" width="400" height="180">
+    </div> 
+  </header>
+    </aside>
+  </section>
+
+  <footer> 
+     Aprendiendo HTML5 con josue ochoa
+
+  </footer>
+
+   <script src="js/jquery.3.3.1"></script>
+   <script src="js/prefixfee"></script>
+   <script src="js/modernizr-custom"></script>
+
+</body>
+</html>
+
